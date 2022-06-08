@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- email : afiffadilah.tif@gmail.com
 
 <!---
 afif27/afif27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
